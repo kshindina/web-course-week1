@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*" :
+    { "X-Author": "anrinen125",
+     "Access-Control-Allow-Origin": "*"
+        }
+  }
+}
